@@ -20,14 +20,12 @@ This empirical study investigates the impact of **inflation on economic growth i
 
 The econometric model is specified as follows:
 
-[
-\text{GDP} = f(\text{CPI}, \text{FDI}, \text{GDS})
-]
+GDP = f(CPI,IDE,EPI)
 
 Where:
 
 * **GDP** – Gross Domestic Product
 * **CPI** – Consumer Price Index (Inflation)
-* **FDI** – Foreign Direct Investment
-* **GDS** – Gross Domestic Savings
+* **IDE* – (FDI) Foreign Direct Investment
+* **EPI** – (GDS)Gross Domestic Savings : EPARGNE
 
