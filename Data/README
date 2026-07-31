@@ -1,3 +1,6 @@
-To achieve the objective of this study, four macroeconomic variables were selected: Gross Domestic Product (GDP), inflation measured by the Consumer Price Index (CPI), Foreign Direct Investment (FDI), and Gross Domestic Savings (GDS). All data were obtained from the World Bank's World Development Indicators (WDI) database.
+To achieve the objective of this study, four macroeconomic variables were selected: Gross Domestic Product (GDP), 
+inflation measured by the Consumer Price Index (CPI), Foreign Direct Investment (FDI), and Gross Domestic Savings (GDS).
+All data were obtained from the World Bank's World Development Indicators (WDI) database.
 
-The empirical analysis was conducted using Stata 15, which was employed to perform stationarity tests, Granger causality tests, and Vector Error Correction Model (VECM) estimation.
+The empirical analysis was conducted using Stata 15, which was employed to perform stationarity tests, Granger causality 
+tests, and Vector Error Correction Model (VECM) estimation.
