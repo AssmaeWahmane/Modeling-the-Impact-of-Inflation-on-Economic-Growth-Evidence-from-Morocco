@@ -1,8 +1,10 @@
 ### **When Should We Use a VECM?**
 
-A **Vector Error Correction Model (VECM)** should be used when the variables included in a VAR model are found to be **cointegrated**. In such cases, a VECM is more appropriate than a standard VAR model.
+A **Vector Error Correction Model (VECM)** should be used when the variables included in a VAR model are found to be 
+**cointegrated**. In such cases, a VECM is more appropriate than a standard VAR model.
 
-Since the VECM specification applies only to cointegrated time series, the **Johansen cointegration test** must be performed before estimating the model.
+Since the VECM specification applies only to cointegrated time series, the **Johansen cointegration test** 
+must be performed before estimating the model.
 
 ### **Objectives of the VECM**
 
